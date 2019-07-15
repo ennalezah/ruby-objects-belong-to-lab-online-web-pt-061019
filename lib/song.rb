@@ -7,3 +7,4 @@ class Song
 end
 
 song = Song.new
+song.artist = artist.name
