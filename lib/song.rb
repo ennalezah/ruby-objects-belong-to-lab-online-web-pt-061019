@@ -5,6 +5,3 @@ class Song
     @title = title
   end
 end
-
-song = Song.new
-song.artist.name
